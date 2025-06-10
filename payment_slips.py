@@ -3,7 +3,7 @@ import random
 
 # Initialize variables
 workers = [] # list of workers
-number_of_workers = 10 # Number of employees
+number_of_workers = 450 # Number of employees
 genders = ['male', 'female'] # gender group
 
 # Creation of a dynamic employee details
