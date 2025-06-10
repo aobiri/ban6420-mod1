@@ -3,12 +3,14 @@ Nexford - Programming in R and Python, Module 1 Assignment
 
 # Payment Slips
 
-This Python script, `payment_slips.py`, is designed to generate payment slips for employees based on their salary information. 
+This script, `payment_slips.py` or `payment_slips.r`, is designed to generate payment slips for employees based on their salary information. 
 
 ## Features
 
 - Generates payment slip in a user-friendly format
 - Supports multiple employees
+
+# .py script
 
 ## Requirements
 
@@ -37,11 +39,7 @@ This Python script, `payment_slips.py`, is designed to generate payment slips fo
     python payment_slips.py
     ```
 
-===============================
-
-# Payment Slips in R
-
-This R script, `payment_slip.r`, is designed to generate payment slips for employees based on their salary information.
+# .r script
 
 ## Features
 
