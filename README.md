@@ -8,7 +8,9 @@ This script, `payment_slips.py` or `payment_slips.r`, is designed to generate pa
 - Generates payment slip in a user-friendly format
 - Supports multiple employees
 
+
 # .py script
+
 
 ## Requirements
 - Python 3.x
@@ -32,7 +34,9 @@ This script, `payment_slips.py` or `payment_slips.r`, is designed to generate pa
     python payment_slips.py
     ```
 
+
 # .r script
+
 
 ## Features
 - Generates payment slip in a user-friendly format
